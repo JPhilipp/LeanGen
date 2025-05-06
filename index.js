@@ -84,9 +84,9 @@ const html = /*html*/`
   }
 
   #toggleMoreOptions {
-    display: block;               /* own line */
-    width: fit-content;           /* shrink to content */
-    margin: 0.8rem auto 0;        /* centered horizontally */
+    display: block;
+    width: fit-content;
+    margin: 0.8rem auto 0;
     background: none;
     border: none;
     color: #007bff;
@@ -97,7 +97,7 @@ const html = /*html*/`
   #toggleMoreOptions:hover { text-decoration: underline; }
 
   .moreOptions {
-    display: none;                /* hidden by default – toggled via JS */
+    display: none;
     margin-top: 0.7rem;
     padding-top: 0.3rem;
     border-top: 1px solid #ccc;
