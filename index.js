@@ -42,7 +42,6 @@ const html = /*html*/`
   textarea {
     width: 50%;
     min-height: 6rem;
-    resize: none;
     font-family: system-ui;
     font-size: 110%;
   }
